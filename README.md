@@ -1,7 +1,7 @@
 # Hello, I'm Daniel
 <a href="https://www.linkedin.com/in/danielarmstead/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Building my path from incident response into security engineering.
+Building my path from incident response into security engineering and educating others.
 
 
 ## Objective
