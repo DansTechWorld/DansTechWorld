@@ -104,9 +104,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Certifications
-[![CASP+](https://img.shields.io/badge/CompTIA-CASP%2B-blue)](https://www.credly.com/badges/84b2fb75-16e3-41f6-ba46-112bc46fbe50/public_url)  
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://www.credly.com/badges/30eab1e4-86c2-4617-965a-538b57fd7d25/public_url)  
-[![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-purple)](https://www.credly.com/badges/36714d50-4290-4524-af20-153a1e5d2d95/public_url)  
+[![CASP+](https://img.shields.io/badge/CompTIA-CASP%2B-blue)](https://www.credly.com/badges/84b2fb75-16e3-41f6-ba46-112bc46fbe50/public_url)
+[![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-purple)](https://www.credly.com/badges/36714d50-4290-4524-af20-153a1e5d2d95/public_url) 
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://www.credly.com/badges/30eab1e4-86c2-4617-965a-538b57fd7d25/public_url)   
 [![Network+](https://img.shields.io/badge/CompTIA-Network%2B-green)](https://www.credly.com/badges/5a492c20-bf7a-45ad-b6b9-6a4daa193f24/public_url)  
 [![A+](https://img.shields.io/badge/CompTIA-A%2B-orange)](https://www.credly.com/badges/81fcedd5-6d00-48a7-9863-56a6e29c119e/public_url)  
 [![ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-lightgrey)](https://www.credly.com/badges/0e7fa7e6-eb87-4111-ae9b-78995031fab8/public_url)  
