@@ -19,7 +19,92 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🧰 Tools & Technologies
+
+<details>
+<summary><strong>🛡 Security Tools & Platforms</strong></summary>
+
+- Splunk  
+- CrowdStrike  
+- FireEye  
+- FLARE VM  
+- Redline  
+- Gurucul  
+- FTK  
+- MISP  
+- Microsoft Defender  
+- Swimlane / Turbine  
+
+</details>
+
+<details>
+<summary><strong>🚨 Security Operations</strong></summary>
+
+- Incident Response  
+- Malware & Threat Analysis  
+- SIEM Monitoring  
+- OSINT  
+- Log Correlation  
+- Security Documentation & Reporting  
+
+</details>
+
+<details>
+<summary><strong>🌐 Networking & Tools</strong></summary>
+
+- TCP/IP  
+- DNS  
+- DHCP  
+- VLAN  
+- TLS  
+- VPN  
+- RDP  
+- Nmap & Zenmap  
+- Wireshark  
+- Infoblox  
+- PuTTY  
+- Nessus  
+
+</details>
+
+<details>
+<summary><strong>💻 Operating Systems</strong></summary>
+
+- Windows 10 & 11  
+- Windows Server 2019, 2025  
+- Ubuntu Server  
+
+</details>
+
+<details>
+<summary><strong>🖥 Virtualization / Hypervisor</strong></summary>
+
+- VirtualBox  
+- Proxmox  
+
+</details>
+
+<details>
+<summary><strong>📱 UEM / MDM</strong></summary>
+
+- Microsoft Intune  
+- Active Directory  
+- MBAM  
+- BitLocker  
+- AirWatch  
+- SCCM  
+
+</details>
+
+<details>
+<summary><strong>🧪 Languages</strong></summary>
+
+- SQL  
+- PowerShell  
+- Python  
+- SPL  
+
+</details>
 
 
 
