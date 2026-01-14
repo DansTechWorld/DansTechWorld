@@ -1,22 +1,56 @@
-# Welcome to DansTechWorld!
+# Hello, I'm Daniel
+<a href="https://www.linkedin.com/in/danielarmstead/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## About Me
-I’m a U.S. Army veteran with a passion for technology and cybersecurity.  
-I’m currently pursuing my B.S. in Cybersecurity & Information Assurance at WGU while building skills in security engineering and automation.  
-My long-term goal is to grow into a Security Engineer and master the mighty Python along this learning trail.  
-I believe in learning through collaboration, staying hands-on, and sharing knowledge so others can grow alongside me.  
+Cybersecurity Analyst and Army Veteran with 7+ years of IT experience spanning service desk leadership, incident response, and security governance. Active TS with SCI eligibility and DoD 8570 Level III (CASP+) certification. Skilled in documenting security findings, supporting audits, and collaborating with technical and leadership teams to strengthen organizational security posture..
 
-## What You’ll Find Here
-This page is my space for learning in public and sharing along the way.  
+## Objective
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-Expect content like:  
-- Beginner-friendly IT guides to help others break into the field  
-- Labs and hands-on walkthroughs (Linux, cloud, security)  
-- Notes, tips, and tricks from my studies and projects  
-- Write-ups from security exercises  
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-## Motto
-*“Life is what you make it.”*  
-A line my mom repeated to me growing up. Back then it felt simple, but today it drives how I approach cybersecurity and life.  
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-<!-- If you're reading this raw code, I appreciate your curiosity. Throughout my various projects you’ll find hidden Easter eggs, CTFs, and secret messages. Can you find them all? -->
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="[https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://www.credly.com/earner/earned/badge/84b2fb75-16e3-41f6-ba46-112bc46fbe50)" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
