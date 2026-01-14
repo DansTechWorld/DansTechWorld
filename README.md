@@ -4,7 +4,7 @@
 Cybersecurity Analyst and Army Veteran with 7+ years of IT experience spanning service desk leadership, incident response, and security governance. Active TS with SCI eligibility and DoD 8570 Level III (CASP+) certification. Skilled in documenting security findings, supporting audits, and collaborating with technical and leadership teams to strengthen organizational security posture..
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity has led me to develop a passion to become a security engineer and educate others. This GitHub showcases my hands-on security work, including home-lab builds, detection engineering, incident response write-ups, and automation projects.
 
 ## Skills
 
