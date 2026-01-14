@@ -1,10 +1,11 @@
 # Hello, I'm Daniel
 <a href="https://www.linkedin.com/in/danielarmstead/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity Analyst and Army Veteran with 7+ years of IT experience spanning service desk leadership, incident response, and security governance. Active TS with SCI eligibility and DoD 8570 Level III (CASP+) certification. Skilled in documenting security findings, supporting audits, and collaborating with technical and leadership teams to strengthen organizational security posture..
+Building my path from incident response into security engineering.
+
 
 ## Objective
-My journey in cybersecurity has led me to develop a passion to become a security engineer and educate others. This GitHub showcases my hands-on security work, including home-lab builds, detection engineering, incident response write-ups, and automation projects.
+I’m building toward a Security Engineering role by turning hands-on work into practical, documented solutions. This GitHub serves as a portfolio of my lab builds, detection engineering, incident response analysis, and security automation.
 
 ## Skills
 
