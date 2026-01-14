@@ -9,48 +9,31 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         |
+|-----------------------------------------------|
+| SIEM Implementation and Log Analysis          |
+| Network Traffic Monitoring and Attack Detection |
+| Security Automation with Shuffle SOAR         | 
+| Incident Response Planning and Execution      |
+| Case Management with TheHive                  |
+| Scripting and Automation for Threat Mitigation |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="[https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white](https://www.credly.com/earner/earned/badge/84b2fb75-16e3-41f6-ba46-112bc46fbe50)" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+[![CASP+](https://img.shields.io/badge/CompTIA-CASP%2B-blue)](https://www.credly.com/badges/84b2fb75-16e3-41f6-ba46-112bc46fbe50/public_url)  
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)](https://www.credly.com/badges/30eab1e4-86c2-4617-965a-538b57fd7d25/public_url)  
+[![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-purple)](https://www.credly.com/badges/36714d50-4290-4524-af20-153a1e5d2d95/public_url)  
+[![Network+](https://img.shields.io/badge/CompTIA-Network%2B-green)](https://www.credly.com/badges/5a492c20-bf7a-45ad-b6b9-6a4daa193f24/public_url)  
+[![A+](https://img.shields.io/badge/CompTIA-A%2B-orange)](https://www.credly.com/badges/81fcedd5-6d00-48a7-9863-56a6e29c119e/public_url)  
+[![ITF+](https://img.shields.io/badge/CompTIA-ITF%2B-lightgrey)](https://www.credly.com/badges/0e7fa7e6-eb87-4111-ae9b-78995031fab8/public_url)  
+[![Project+](https://img.shields.io/badge/CompTIA-Project%2B-yellow)](https://www.credly.com/badges/41a14939-8bde-4a14-a3cc-8cf608f44afc/public_url)
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+Vulnerability Assessment for Housing Portal
+-  Performed application security testing on a housing portal and identified authentication and input-validation vulnerabilities.
+-  Mapped identified vulnerabilities to NIST control requirements and recommended fixes based on OWASP secure coding standards.
+-  Created technical and stakeholder reports for responsible disclosure and published a redacted version on LinkedIn as a professional case study.
