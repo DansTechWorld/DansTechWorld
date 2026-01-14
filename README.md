@@ -7,18 +7,14 @@ Cybersecurity Analyst and Army Veteran with 7+ years of IT experience spanning s
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         |
-|-----------------------------------------------|
-| SIEM Implementation and Log Analysis          |
-| Network Traffic Monitoring and Attack Detection |
-| Security Automation with Shuffle SOAR         | 
-| Incident Response Planning and Execution      |
-| Case Management with TheHive                  |
-| Scripting and Automation for Threat Mitigation |
+| Skill                                                      |
+|------------------------------------------------------------|
+| Incident Response & Analysis Situational Awareness         |
+| Audit Support & Evidence Collection Team Collaboration     |
+| Security Policy Compliance Monitoring Continuous Learner   | 
+| Identity & Access Management                               |
 
-## Tools
 ## 🧰 Tools & Technologies
 
 <details>
@@ -105,7 +101,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SPL  
 
 </details>
-
 
 
 ## Certifications
